@@ -42,7 +42,7 @@ INTEGER_MIN = -10
 INTEGER_MAX = 10
 
 [HEADER]
-#Column Header and Datatypes should be delimited by the same "separator" as expected in generated data 
+#Column Header and Datatypes should be delimited by the same "separator" as expected in generated data and the separator or delimiter should be specified as a command line argument
 HEADER = column_1,column_2,column_3,column_4
 #Supported Datatypes are:->
 #1.String
